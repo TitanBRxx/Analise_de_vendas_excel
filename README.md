@@ -1,29 +1,23 @@
-# 📊 Análise de Vendas no Excel
+# Projeto de Análise de Dados - Excel
 
-Este repositório contém uma análise simples de vendas com base em uma planilha Excel fictícia. 
-O objetivo é treinar visualização e extração de insights a partir de dados brutos.
+Este é um projeto de análise de dados utilizando planilhas Excel.
 
-## 🔍 Objetivo
+## 📁 Estrutura do projeto
 
-- Explorar produtos, categorias e regiões
-- Entender padrões de vendas
-- Praticar análise visual no Excel
+- `dados/`: planilhas brutas originais
+- `analises/`: dashboards e análises feitas
+- `scripts/`: scripts automatizados (futuramente)
+- `imagens/`: gráficos exportados
+- `docs/`: documentação complementar
 
-## 📁 Arquivo
+## 📊 Objetivo
 
-- `analise_vendas_excel.xlsx`
+Analisar os dados de vendas e clientes, gerar insights e visualizações úteis.
 
-Inclui gráficos e tabelas com:
-- Vendas por categoria
-- Preferência de métodos de pagamento
-- Evolução de vendas ao longo do tempo
+## ✅ Status
 
-## 🧰 Ferramentas
+🚧 Em construção...
 
-- Microsoft Excel
-- GitHub
+## 🔗 Autor
 
-## ✍️ Autor
-
-Caio – Estudante de Ciência de Dados
-
+Caio - Técnico em audiovisual e estudante de Ciência de Dados
