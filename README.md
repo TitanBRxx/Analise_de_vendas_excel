@@ -29,8 +29,7 @@ analise_de_vendas_excel/
    etapa_graficos.png
  
    etapa_filtros.png
- 
-  (prints adicionais do processo)
+   (prints adicionais do processo)
  </blockquote>
  
  -Documentacao/
