@@ -22,7 +22,8 @@ analise_de_vendas_excel/
  games_dataset_bruto.csv # dados originais
  
  games_dataset_limpo.xlsx # dados tratados
- <br>
+ 
+ 
  Imagens/
  
  etapa_graficos.png
@@ -30,9 +31,11 @@ analise_de_vendas_excel/
  etapa_filtros.png
  
  (prints adicionais do processo)
- <br>
+ 
+ 
  Documentacao/
- <br>
+ 
+ 
  README.md
 
 ---
