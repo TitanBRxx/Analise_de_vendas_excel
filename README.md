@@ -26,11 +26,11 @@ analise_de_vendas_excel/
  
  -Imagens/
  <blockquote>
-   etapa_graficos.png
+ etapa_graficos.png
  
-   etapa_filtros.png
-   
-   prints adicionais do processo
+ etapa_filtros.png
+ 
+ prints adicionais do processo
  
  </blockquote>
  
