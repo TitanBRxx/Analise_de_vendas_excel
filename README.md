@@ -20,7 +20,7 @@ analise_de_vendas_excel/
  -Dados/ 
  <blockquote>
    games_dataset_bruto.csv # dados originais
- 
+     
    games_dataset_limpo.xlsx # dados tratados
  </blockquote>
  
