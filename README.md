@@ -26,6 +26,7 @@ analise_de_vendas_excel/
  
  -Imagens/
  <blockquote>
+  
  etapa_graficos.png
  
  etapa_filtros.png
