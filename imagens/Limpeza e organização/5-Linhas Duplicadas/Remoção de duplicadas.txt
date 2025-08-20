@@ -1,0 +1,2 @@
+Foram removidas linhas q se repetiam em todas as colunas exceto pela coluna Rank (chave primária)
+usando a função "remover duplicadas" e removendo apenas a coluna Rank 
