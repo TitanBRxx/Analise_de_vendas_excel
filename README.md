@@ -17,26 +17,26 @@ Os dados utilizados são reais e foram obtidos no [Kaggle](https://www.kaggle.co
 
 analise_de_vendas_excel/
 
- Dados/ 
+ -Dados/ 
  
- games_dataset_bruto.csv # dados originais
+ *games_dataset_bruto.csv # dados originais
  
- games_dataset_limpo.xlsx # dados tratados
- 
- 
- Imagens/
- 
- etapa_graficos.png
- 
- etapa_filtros.png
- 
- (prints adicionais do processo)
+ *games_dataset_limpo.xlsx # dados tratados
  
  
- Documentacao/
+ -Imagens/
+ 
+ *etapa_graficos.png
+ 
+ *etapa_filtros.png
+ 
+ *(prints adicionais do processo)
  
  
- README.md
+ -Documentacao/
+ 
+ 
+ -README.md
 
 ---
 
