@@ -19,18 +19,18 @@ analise_de_vendas_excel/
 
  -Dados/ 
  
- *games_dataset_bruto.csv # dados originais
+   games_dataset_bruto.csv # dados originais
  
- *games_dataset_limpo.xlsx # dados tratados
+   games_dataset_limpo.xlsx # dados tratados
  
  
  -Imagens/
  
- *etapa_graficos.png
+   etapa_graficos.png
  
- *etapa_filtros.png
+   etapa_filtros.png
  
- *(prints adicionais do processo)
+   (prints adicionais do processo)
  
  
  -Documentacao/
