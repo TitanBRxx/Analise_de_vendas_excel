@@ -30,6 +30,11 @@ analise_de_vendas_excel/
 └─ README.md
 
 
+
+
+
+
+
 ---
 
 ## 🚀 Etapas do Projeto
