@@ -16,24 +16,19 @@ Os dados utilizados são reais e foram obtidos no [Kaggle](https://www.kaggle.co
 ## 📂 Estrutura do Repositório
 
 analise_de_vendas_excel/
-│
-├─ Dados/
-│ ├─ games_dataset_bruto.csv # dados originais
-│ └─ games_dataset_limpo.xlsx # dados tratados
-│
-├─ Imagens/
-│ ├─ etapa6_graficos.png
-│ ├─ etapa7_filtros.png
-│ └─ ... (prints adicionais do processo)
-│
-└─ Documentacao/
-└─ README.md
 
+ Dados/ 
+ games_dataset_bruto.csv # dados originais
+ games_dataset_limpo.xlsx # dados tratados
 
+ Imagens/
+ etapa_graficos.png
+ etapa_filtros.png
+ (prints adicionais do processo)
 
-
-
-
+ Documentacao/
+ 
+ README.md
 
 ---
 
