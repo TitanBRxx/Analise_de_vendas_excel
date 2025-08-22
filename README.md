@@ -7,35 +7,7 @@ Os dados utilizados são reais e foram obtidos no [Kaggle](https://www.kaggle.co
 
 ## Apresentação Geral do Dataset:
 
-Este conjunto de dados contém uma lista de videogames com vendas superiores a 100.000 cópias. Foi gerado a partir de uma busca no vgchartz.com
-
-Colunas:
-
-<blockquote>
-
-Rank - Classificação das vendas gerais
-
-Nome - O nome do jogo
-
-Plataforma - Plataforma de lançamento do jogo (por exemplo, PC, PS4, etc.)
-
-Ano - Ano de lançamento do jogo
-
-Gênero - Gênero do jogo
-
-Editora - Editora do jogo
-
-NA_Sales - Vendas na América do Norte (em milhões de dólares)
-
-EU_Sales - Vendas na Europa (em milhões de dólares)
-
-JP_Sales - Vendas no Japão (em milhões de dólares)
-
-Outras_Vendas - Vendas no resto do mundo (em milhões de dólares)
-
-Global_Sales - Total de vendas mundiais (em milhões de dólares).
- 
-</blockquote>
+Este conjunto de dados contém uma lista de +16.000 linhas de videogames com vendas superiores a 100.000 cópias. Foi gerado a partir de uma busca no vgchartz.com
 
 ---
 
@@ -59,15 +31,18 @@ analise_de_vendas_excel/
    games_dataset_limpo.xlsx # dados tratados
    
  </blockquote>
+-Análise exploratória
  
- -Imagens/
  <blockquote>
-  
- etapa_graficos.png
+Uso de **tabelas dinâmicas** e funções estatísticas para extrair informações
  
- etapa_filtros.png
  
- prints adicionais do processo
+ </blockquote>
+ -Limpeza e organização/
+ <blockquote>
+ 
+ #processo de limpeza com prints 
+ e textos explicando o processo
  
  </blockquote>
  
