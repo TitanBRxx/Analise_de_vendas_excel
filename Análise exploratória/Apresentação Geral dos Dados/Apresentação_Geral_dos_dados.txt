@@ -1,0 +1,56 @@
+Este dataset reúne informações sobre jogos de videogame que alcançaram pelo menos 100 mil cópias vendidas em múltiplos consoles e PC.
+_________________________________________________________________________________________________________________
+Após o tratamento dos dados (remoção de linhas vazias, duplicadas e inconsistentes), o dataset final conta com:
+
+16.301 linhas (jogos)
+
+12 colunas (atributos)
+
+📂 Estrutura das Colunas
+
+Rank → Classificação das vendas globais (int)
+
+Nome → Nome do jogo (qualitativa nominal)
+
+Plataforma → Plataforma de lançamento (ex: PC, PS4, etc.) (qualitativa nominal)
+
+Ano → Ano de lançamento (int)
+
+Gênero → Gênero do jogo (ex: Ação, Esporte, RPG) (qualitativa nominal)
+
+Editora → Empresa responsável pela publicação (qualitativa nominal)
+
+NA_Sales → Vendas na América do Norte (em milhões) (float)
+
+EU_Sales → Vendas na Europa (em milhões) (float)
+
+JP_Sales → Vendas no Japão (em milhões) (float)
+
+Outras_Vendas → Vendas no resto do mundo (em milhões) (float)
+
+Global_Sales → Total de vendas globais (em milhões) (float)
+
+Sales_Per_Year → Faturamento médio por ano de cada jogo (coluna criada manualmente) (float)
+
+_________________________________________________________________________________________________________________
+
+
+Resumo estatístico dos dados:
+
+Período de cobertura dos dados, 1980 à 2020
+
+Jogo com maior faturamento é o Wii Sports com 82,74 milhões de dólares
+
+Média de faturamento global por jogo, 540 mil dólares
+
+Média de faturamento dos jogos por região:
+   América do Norte = 380 mil dólares
+   Europa = 212 mil dólares
+   Japão = 113 mil dólares
+   outros = 69 mil dólares
+   global = 777 mil dólares
+
+
+
+
+
