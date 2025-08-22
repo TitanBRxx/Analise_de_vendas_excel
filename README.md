@@ -82,45 +82,32 @@ analise_de_vendas_excel/
 
 ### 1. Importação dos Dados
 Carregamos o dataset original no Excel.  
-![Etapa 1](../Imagens/etapa1_importacao.png)
 
 ---
 
 ### 2. Limpeza e Tratamento
 Foram removidos dados duplicados, valores inconsistentes e padronizadas as colunas.  
-![Etapa 2](../Imagens/etapa2_limpeza.png)
 
 ---
 
 ### 3. Análises Exploratórias
 Uso de **tabelas dinâmicas** e funções estatísticas para explorar o dataset.  
-![Etapa 3](../Imagens/etapa3_tabeladinamica.png)
 
 ---
 
 ### 4. Criação do Dashboard
 Gráficos e indicadores principais para melhor visualização das vendas.  
-![Etapa 4](../Imagens/etapa4_dashboard.png)
 
 ---
 
 ### 5. Resultados e Conclusões
 Resumo dos principais insights encontrados.  
-![Etapa 5](../Imagens/etapa5_resultados.png)
 
 ---
 
 ## 📸 Prints Detalhados
-Além das imagens principais acima, você pode conferir as demais etapas na pasta [`Imagens/`](../Imagens).
-
----
-
-## 📚 Aperfeiçoamentos
-Durante este projeto, desenvolvi aperfeiçoei habilidades em:
-- Limpeza e padronização de dados no Excel com power query e funções 
-- Criação de tabelas dinâmicas e gráficos  
-- Construção de dashboards interativos com Power Bi
-- Organização de projeto com **VS Code** e **GitHub Desktop**  
+Você pode conferir prints das etapas na pasta [`Imagens/`](../Imagens).
+  
 
 ---
 
