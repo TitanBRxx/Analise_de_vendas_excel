@@ -1,0 +1,6 @@
+Olhando para o gráfico, notamos um crescimento constante no número de jogos por ano até 2008, seguido por uma queda drástica. 
+Essa anomalia contrasta com o crescimento conhecido da indústria de games.
+A razão para essa queda é que o dataset só contabiliza jogos que superaram 100 mil vendas. Os jogos mais antigos tiveram tempo 
+de sobra para atingir essa marca. 
+Já os títulos mais recentes não, o que gera o declínio aparente no gráfico. 
+Em essência, o gráfico não mostra o total de jogos lançados, mas sim o número de jogos que se tornaram sucessos de venda.
