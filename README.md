@@ -81,7 +81,7 @@ Resumo dos principais insights encontrados.
 ---
 
 ## 📸 Prints Detalhados
-Você pode conferir prints das etapas na pasta [`Imagens/`](../Imagens).
+Você pode conferir prints de todas as etapas durante o processo
   
 
 ---
