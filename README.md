@@ -20,7 +20,7 @@ O gráfico mostra um crescimento quase constante de lançamentos até 2008, segu
 
 Insight crítico: Esse comportamento não reflete a realidade da indústria de games, que segue em expansão.
 
-Explicação: O dataset só considera jogos que atingiram ao menos 100 mil cópias vendidas. Jogos lançados após 2015 ainda não tiveram tempo de alcançar esse marco, o que causa a queda aparente.
+Explicação: O dataset só considera jogos que atingiram ao menos 100 mil cópias vendidas. Jogos lançados após 2015 tiveram pouco tempo para alcançar esse marco, o que causa a queda aparente.
 
 Limitação identificada: análises sobre tendências recentes podem estar enviesadas devido a esse critério.
 ---
