@@ -4,6 +4,8 @@ Este projeto tem como objetivo demonstrar minhas habilidades em análise de dado
 Os dados utilizados são reais e foram obtidos no [Kaggle](https://www.kaggle.com/).
 
 ---
+## Projeto em andamento! Atuamente na etapa 3, análise exploratória
+---
 
 ## Apresentação Geral do Dataset:
 
@@ -11,9 +13,9 @@ Este conjunto de dados contém uma lista de +16.000 linhas de videogames com ven
 
 ---
 
-## Distribuíção de Lançamentos por Ano
-
-
+## Insight em Destaque
+Distribuíção de Lançamentos por Ano
+  
 ![Gráfico de linha mostrando o número de games por ano](Análise%20exploratória/Indentificação%20de%20Padrões%20Gerais/Número%20de%20jogos%20por%20ano/Numero%20de%20Jogos%20por%20Ano.png)
 
 O gráfico mostra um crescimento quase constante de lançamentos até 2008, seguido de uma forte queda.
